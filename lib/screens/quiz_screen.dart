@@ -41,7 +41,7 @@ class _QuizScreenState extends State<QuizScreen> {
               icon: const Icon(Icons.arrow_forward),
               onPressed: () {},
               style: OutlinedButton.styleFrom(foregroundColor: Colors.white),
-              label: const Text('Start Quiz'),
+              label: const Text('Start  Quiz'),
             ),
           ],
         ),
